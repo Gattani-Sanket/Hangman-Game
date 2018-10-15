@@ -1,0 +1,66 @@
+asparagus
+apples
+avacado
+alfalfa
+acorn squash
+almond
+arugala
+artichoke
+applesauce
+bruscetta
+bacon
+black beans
+bagels
+baked beans
+bison
+barley
+beer
+cake
+carrots
+carne asada
+celery
+cheese
+chicken
+catfish
+chips
+chocolate
+chowder
+clams
+donuts
+dumplings
+eggs
+enchilada
+eggrolls
+ginger
+gnocchi
+goose
+granola
+grapes
+green beans
+guancamole
+hamburger
+honey
+hummus
+ice cream
+jambalaya
+jelly
+kale
+kabobs
+ketchup
+kiwi
+lasagna
+moose
+milk
+milkshake
+noodles
+pizza
+pepper
+rice
+spinach
+tortillas
+wine
+walnut
+waffle
+yoghurt
+zucchini
+
